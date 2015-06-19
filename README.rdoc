@@ -1,0 +1,35 @@
+Instagram Challenge
+===================
+
+Instructions
+-------
+* Challenge time: Friday, the entire day + the weekend if you need it
+* Feel free to use Google, your notes, books, etc., but work on your own
+* You must submit a pull request to this repo with your challenge solution (or partial solution) by 9am Monday morning
+
+Models:
+* User
+* Image
+* Comment
+* Like
+
+Tests:(Rough Version)
+
+User:
+ many images
+ many likes
+ many liked images
+
+ User Management:
+ Signed in:
+
+
+ Not signed in:
+
+ Comments:
+ users can comment on image page
+ users can edit their comment on image page
+ users can only edit comments they made
+ users can delete their comment on image page
+ users can only delete comments they made.
+ after a comment was made users can redirect to the homepage.
